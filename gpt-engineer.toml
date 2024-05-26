@@ -1,0 +1,5 @@
+[run]
+build = "npm run build"
+
+[gptengineer-app]
+project_id = "cd9e74f1-11b8-4c58-a353-b72fccf55572"
